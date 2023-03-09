@@ -170,7 +170,6 @@
 - `Logs`
 - `History`
 - `Crontab`
-- 
 - `SUID,GUID Exploitation `
 - `Writable permission for sudoers,passwd,shadow`
 - `Pwntool`
